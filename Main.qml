@@ -2,7 +2,6 @@ import QtQuick 2.5
 import QtQuick.Layouts 1.2
 import QtQuick.Controls 1.4 as Qqc
 import QtQuick.Controls.Styles 1.4
-
 import SddmComponents 2.0
 
 Rectangle {
@@ -12,15 +11,7 @@ Rectangle {
 
     Connections {
         target: sddm
-
-        onLoginSucceeded: {
-        }
-
-        onLoginFailed: {
-            denied.play()
-        }
     }
-
     ColumnLayout {
         AnimatedImage{
             Layout.alignment: Qt.AlignCenter
