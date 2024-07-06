@@ -1,0 +1,9 @@
+[SddmGreeterTheme]
+Name=sddm-lain-theme
+Description=Inspired by fauux.neocities.org/login
+Author=Ioresolution
+License=GPLv3
+Type=sddm-theme
+Version=0.1
+MainScript=Main.qml
+
