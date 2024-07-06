@@ -1,11 +1,12 @@
 <div align="center">
   <h1>sddm-wired-theme</h1>
-  
-  <a href="https://github.com/ioresolution/sddm-wired-theme">
+    <a href="https://github.com/ioresolution/sddm-wired-theme">
     <img src="https://github.com/ioresolution/sddm-wired-theme/blob/main/WiredLogin.gif" alt="Logo" width="200" height="200">
-	<p>Lets all love lain</p>
   </a>
+	<p>Lets all love lain</p>
+
 </div>
+
 ## About 
 
 [https://fauux.neocities.org](https://fauux.neocities.org) inspired sddm theme. <br><br>
