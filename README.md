@@ -1,7 +1,7 @@
 <div align="center">
   <h1>sddm-wired-theme</h1>
     <a href="https://github.com/ioresolution/sddm-wired-theme">
-    <img src="https://github.com/ioresolution/sddm-wired-theme/blob/main/WiredLogin.gif" alt="Logo" width="200" height="200">
+    <img src="https://github.com/ioresolution/sddm-wired-theme/blob/master/WiredLogin.gif" alt="Logo" width="200" height="200">
   </a>
 	<p>Lets all love lain</p>
 
