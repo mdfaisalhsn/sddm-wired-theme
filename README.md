@@ -38,4 +38,4 @@ Current=sddm-wired-theme
 Project Link: [https://github.com/ioresolution/sddm-wired-theme](https://github.com/ioresolution/sddm-wired-theme)
 
 ## Preview
-![](https://github.com/ioresolution/sddm-wired-theme/blob/main/Preview.png)
+![](https://github.com/ioresolution/sddm-wired-theme/blob/master/Preview.png)
